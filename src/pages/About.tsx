@@ -179,7 +179,7 @@ const About: React.FC = () => {
               <div className="bg-white rounded-2xl p-8 shadow-card card-hover">
                 <div className="relative mb-6">
                   <img
-                    src="/images/Screenshot 2025-07-11 193431.png"
+                    src="/images/Screenshot_2025-07-11_193431.png"
                     alt="Tiffano R S"
                     className="w-32 h-32 rounded-full mx-auto border-4 border-primary/10 shadow-card object-cover"
                   />
@@ -197,7 +197,7 @@ const About: React.FC = () => {
               <div className="bg-white rounded-2xl p-8 shadow-card card-hover">
                 <div className="relative mb-6">
                   <img
-                    src="/images/WhatsApp Image 2025-07-20 at 11.14.09_15740c07.jpg"
+                    src="/images/WhatsApp_Image_2025-07-20_at_11.14.09_15740c07.jpg"
                     alt="Pragadheashwar Vijayan S"
                     className="w-32 h-32 rounded-full mx-auto border-4 border-primary/10 shadow-card object-cover"
                   />
